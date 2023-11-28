@@ -7,7 +7,7 @@ import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
 public class displayfour extends Application {
-  @Override // Override the start method in the Application class
+  @Override 
   public void start(Stage primaryStage) {
     // Creates a pane to hold the images views
     GridPane pane = new GridPane();
